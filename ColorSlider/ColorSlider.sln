@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorSlider", "ColorSlider.csproj", "{2A78791F-A4D9-4ACC-A6C4-5E81F97AF6D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A78791F-A4D9-4ACC-A6C4-5E81F97AF6D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A78791F-A4D9-4ACC-A6C4-5E81F97AF6D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A78791F-A4D9-4ACC-A6C4-5E81F97AF6D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A78791F-A4D9-4ACC-A6C4-5E81F97AF6D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {761924B1-40F9-484E-9E5A-2149443A8C36}
+	EndGlobalSection
+EndGlobal
